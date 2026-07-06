@@ -1,0 +1,36 @@
+body {
+    background-image: url("universe.jpg");
+    background-size: cover;
+    text-align: center;
+    margin-top: 1.5rem;
+    font-weight: 900;
+    color: #fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* *****************
+    typography
+***************** */
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+/* ********************
+    layout
+******************** */
+button {
+    padding: .5rem 1rem;
+    font-weight: bold;
+    border-radius: 5px;
+    background: goldenrod;
+    width: 150px;
+    color: #016f32;
+    border: none;
+    display: block;
+    margin: .25rem auto;
+}
